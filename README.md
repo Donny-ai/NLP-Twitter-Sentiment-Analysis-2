@@ -1,1 +1,3 @@
-# NLP-Twitter-Sentiment-Analysis-2
+# **NLP-Twitter-Sentiment-Analysis**
+In this project I performed sentiment analysis on a dataset of 1.6 million tweets from [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140). I preprocessed them and generated vector embeddings with BERT, then trained a logistic regression model to predict each tweet's sentiment.
+As an example I grabbed only tweets containing "Anthropic" from the test dataset to see how the model scores them and to get a glimpse of public sentiment towards that company.
